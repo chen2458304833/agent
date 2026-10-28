@@ -1,0 +1,14 @@
+{
+  "DEEPSEEK_API_KEY": "sk-在这里填你自己的Key",
+  "MODEL": "deepseek-chat",
+  "BASE_URL": "https://api.deepseek.com/v1",
+
+  "USE_LOCAL": false,
+  "LOCAL_MODEL": "qwen2.5:7b",
+  "LOCAL_BASE_URL": "http://127.0.0.1:11434/v1",
+
+  "VISION_MODEL": "qwen2.5vl:3b",
+  "VISION_BASE_URL": "http://127.0.0.1:11434",
+
+  "WEB_TOKEN": ""
+}
